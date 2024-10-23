@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboController", "RoboController\RoboController.csproj", "{DE16F7EB-3315-4C23-B373-ED345DE3F81E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboController.Tests", "RoboController.Tests\RoboController.Tests.csproj", "{3CAF1977-6FB4-4A2C-A64E-127A838E2E23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE16F7EB-3315-4C23-B373-ED345DE3F81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE16F7EB-3315-4C23-B373-ED345DE3F81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE16F7EB-3315-4C23-B373-ED345DE3F81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAF1977-6FB4-4A2C-A64E-127A838E2E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAF1977-6FB4-4A2C-A64E-127A838E2E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAF1977-6FB4-4A2C-A64E-127A838E2E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAF1977-6FB4-4A2C-A64E-127A838E2E23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
